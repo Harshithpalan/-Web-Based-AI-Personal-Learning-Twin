@@ -1,0 +1,93 @@
+{
+  "status": "success",
+  "result": [
+    {
+      "projectId": "ai-interview-analyzer-3d407",
+      "projectNumber": "1043453143487",
+      "displayName": "AI Interview Analyzer",
+      "name": "projects/ai-interview-analyzer-3d407",
+      "resources": {
+        "hostingSite": "ai-interview-analyzer-3d407"
+      },
+      "state": "ACTIVE",
+      "etag": "1_be8bea33-239c-44e7-8106-b635e9099327"
+    },
+    {
+      "projectId": "ai-resume-shortlisting-s-86f39",
+      "projectNumber": "1061713499950",
+      "displayName": "AI resume shortlisting system",
+      "name": "projects/ai-resume-shortlisting-s-86f39",
+      "resources": {
+        "hostingSite": "ai-resume-shortlisting-s-86f39"
+      },
+      "state": "ACTIVE",
+      "etag": "1_1f8ffee4-186d-4d94-b2a3-04dffd131e86"
+    },
+    {
+      "projectId": "event-planner-2dd2f",
+      "projectNumber": "205605188995",
+      "displayName": "event-planner",
+      "name": "projects/event-planner-2dd2f",
+      "resources": {
+        "hostingSite": "event-planner-2dd2f"
+      },
+      "state": "ACTIVE",
+      "etag": "1_5e8bf175-70cb-4ebe-a4ad-7781e2d4c482"
+    },
+    {
+      "projectId": "foucs-mode-web-app",
+      "projectNumber": "295155348623",
+      "displayName": "Foucs-mode-web-app",
+      "name": "projects/foucs-mode-web-app",
+      "resources": {
+        "hostingSite": "foucs-mode-web-app"
+      },
+      "state": "ACTIVE",
+      "etag": "1_3a4558b5-5aaa-4a8a-a53b-61ad39d819fb"
+    },
+    {
+      "projectId": "gamified-eco-habits",
+      "projectNumber": "398856350131",
+      "displayName": "Gamified Eco-Habits",
+      "name": "projects/gamified-eco-habits",
+      "resources": {
+        "hostingSite": "gamified-eco-habits"
+      },
+      "state": "ACTIVE",
+      "etag": "1_1abc742b-85e6-4334-ad52-182df3edac78"
+    },
+    {
+      "projectId": "gym-membership-managemen-de635",
+      "projectNumber": "1067123314007",
+      "displayName": "Gym Membership Management ",
+      "name": "projects/gym-membership-managemen-de635",
+      "resources": {
+        "hostingSite": "gym-membership-managemen-de635"
+      },
+      "state": "ACTIVE",
+      "etag": "1_7f424947-337b-4975-98b1-fd5637647b14"
+    },
+    {
+      "projectId": "room-management-app-2e05a",
+      "projectNumber": "245311972715",
+      "displayName": "room-management-app",
+      "name": "projects/room-management-app-2e05a",
+      "resources": {
+        "hostingSite": "room-management-app-2e05a"
+      },
+      "state": "ACTIVE",
+      "etag": "1_b174f75c-a472-4516-a3d4-e14b3def8548"
+    },
+    {
+      "projectId": "smart-parking-system-a0b58",
+      "projectNumber": "1063062066972",
+      "displayName": "smart-parking-system",
+      "name": "projects/smart-parking-system-a0b58",
+      "resources": {
+        "hostingSite": "smart-parking-system-a0b58"
+      },
+      "state": "ACTIVE",
+      "etag": "1_d3c9a3a6-3113-46db-b983-977d7f68d11f"
+    }
+  ]
+}
