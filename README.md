@@ -346,19 +346,3 @@ weakness_predictions
 ├── confidence_score
 └── predicted_at
 ```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how to get started:
-
-1. **Fork** the repository
-2. **Create** a feature branch: `git checkout -b feature/your-feature-name`
-3. **Commit** your changes: `git commit -m 'feat: Add your feature'`
-4. **Push** to your branch: `git push origin feature/your-feature-name`
-5. **Open** a Pull Request
-
-Please follow conventional commit messages and keep PRs focused on a single change.
-
----
